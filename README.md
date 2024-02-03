@@ -1,7 +1,7 @@
 # ExcelCoffeeOrdersProject
 Coffee Sales Dashboard made in Excel using Pivot Table and analytics formulas 
 
-This project was to prepare a dashboard about coffee sales in terms of time frame, the amount of money spent by specific people by country. Additional variables are the types of coffee beans, the possession of a loyalty card and the size of the coffee package purchased.
+This project aimed to prepare a dashboard about coffee sales in relation to a time period, the amount of money spent by specific individuals by country. Additional variables are the types of coffee roasts, the possession of a loyalty card and the size of the coffee package purchased.
 
 In this project, I used a pivot table and several functions (e.g. MATCH, INDEX, IF, VLOOKUP).
 
