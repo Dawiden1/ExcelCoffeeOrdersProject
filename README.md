@@ -10,3 +10,6 @@ There are 10 sheets in the file, divided into 4 colors:
 - blue - pivot tables used to create the dashboard
 - green - transformed data
 - orange - input data
+
+![image](https://github.com/Dawiden1/ExcelCoffeeOrdersProject/assets/74070701/d4030aa2-d238-4ff1-9d27-aab333b0bcd6)
+
